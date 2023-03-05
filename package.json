@@ -1,0 +1,46 @@
+{
+  "name": "arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Flash loan arbitrage bot for Binance Smart Chain (BSC)",
+  "main": "dist/arbitrage-bot.js",
+  "scripts": {
+    "start": "node dist/arbitrage-bot.js",
+    "lint": "eslint .",
+    "prettify": "prettier --write .",
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": [
+    "arbitrage",
+    "bot",
+    "bsc",
+    "flash loan",
+    "trading"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itscojac/arbitrage-bot"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.3.3",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.3",
+    "eslint": "^8.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.4.7",
+    "prettier": "^2.4.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.9.1"
+  }
+}

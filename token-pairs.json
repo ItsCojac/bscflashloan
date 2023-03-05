@@ -1,0 +1,27 @@
+[
+  {
+    "pairName": "BNB/USDT",
+    "buyToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "sellToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  {
+    "pairName": "USDT/BUSD",
+    "buyToken": "0x55d398326f99059fF775485246999027B3197955",
+    "sellToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  {
+    "pairName": "USDC/BUSD",
+    "buyToken": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "sellToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  },
+  {
+    "pairName": "BNB/BTCB",
+    "buyToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "sellToken": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+  },
+  {
+    "pairName": "BTCB/USDT",
+    "buyToken": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "sellToken": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  }
+]
